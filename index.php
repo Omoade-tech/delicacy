@@ -33,7 +33,7 @@ include("templates/header.php");
         ?>
             <div class="col-12 col-sm-6 col-lg-4">
                 <div class="card border-0 shadow-sm h-100 mb-4">
-                    <img src="./assets/foodimage.jpg" alt="logo" class="delicacy">
+                    <img src="./assets/foodimage.jpg" alt="logo" class="deliccacy">
                     <div class="card-body text-center">
                         <h6 class="card-title">
                             <?php echo htmlspecialchars($delicacy['title']) ?>
